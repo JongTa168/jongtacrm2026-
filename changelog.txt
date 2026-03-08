@@ -1,0 +1,4 @@
+v1.0.0 (2026-03-08)
+- Initial Release JongTa CRM 2026
+- License system with HWID lock
+- Auto update checker
